@@ -115,6 +115,7 @@ class traitExample {
 $traitExample = new traitExample;
 
 $traitExample->A1();
+
 ?>
 <html>
     <head>
@@ -123,4 +124,5 @@ $traitExample->A1();
             // var a=10;
         </script>
     </head>
+	Some Edit
 </html>
